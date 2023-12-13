@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portafolio/build/static/css/main.a3a0bd4d.css",
+    "main.js": "/portafolio/build/static/js/main.c6075871.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/portafolio/build/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/item1.png": "/portafolio/build/static/media/item1.dcedf16a49016d9d2b89.png",
+    "static/media/Roboto-Italic.ttf": "/portafolio/build/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
+    "static/media/Roboto-Regular.ttf": "/portafolio/build/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Black.ttf": "/portafolio/build/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Bold.ttf": "/portafolio/build/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/profile.png": "/portafolio/build/static/media/profile.84b4438852bc622f722e.png",
+    "static/media/item2.png": "/portafolio/build/static/media/item2.ac46f96a9e73b3e29a93.png",
+    "static/media/Mantana-Italic.otf": "/portafolio/build/static/media/Mantana-Italic.b883ae207c1e2dd6a313.otf",
+    "static/media/Mantana-Regular.otf": "/portafolio/build/static/media/Mantana-Regular.16b08746631f4c80d4f4.otf",
+    "static/media/logo.svg": "/portafolio/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portafolio/build/index.html",
+    "main.a3a0bd4d.css.map": "/portafolio/build/static/css/main.a3a0bd4d.css.map",
+    "main.c6075871.js.map": "/portafolio/build/static/js/main.c6075871.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/portafolio/build/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a0bd4d.css",
+    "static/js/main.c6075871.js"
+  ]
+}
